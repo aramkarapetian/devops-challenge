@@ -1,5 +1,9 @@
 # Goal
 
+The goal of this exercise is to take a dockerized application and make it work in a Kubernetes cluster.
+
+## Application Description
+
 The application is a REST server that takes an integer as input and returns the prime numbers until it.
 The app is currently distributed as a [docker container](https://github.com/orgs/travelaudience/packages/container/challenge-devops-rest-server/50705).
 
